@@ -3,3 +3,6 @@ numexpr
 langchain
 langchain_groq
 langchain_community
+wikipedia-api
+wikipedia
+
