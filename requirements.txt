@@ -1,6 +1,5 @@
 streamlit
 numexpr
-re
 langchain
 langchain_groq
 langchain_community
